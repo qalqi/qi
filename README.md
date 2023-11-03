@@ -45,6 +45,8 @@ https://docs.soliditylang.org/en/develop/natspec-format.html
 https://ethereum.org/en/developers/docs/evm/opcodes/
 <br />
 https://docs.soliditylang.org/en/v0.8.22/yul.html
+<br />
+https://eips.ethereum.org/EIPS/eip-2535
 
 <br />
 <br />
