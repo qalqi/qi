@@ -8,6 +8,9 @@
 
 "Uniting the World in Code: A Universal Language Alternative to Solidity!" 💫🌐
 
+![qi_readme](https://github.com/qalqi/qi/assets/1781048/7d548019-18a6-4c4b-941c-b5dc87a0bf9a)
+
+
 The ten founding principles for programming language Qi:
 
 1. Security by Design:
