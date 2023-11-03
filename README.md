@@ -5,9 +5,9 @@
 # Qi - مسودة استكشافية: الريادة في لغة عالمية لكتابة العقود الذكية على سلاسل كتل متوافقة مع EVM مثل ETH و BSC وAvalanche
 # Qi - Пилотный Проект: Создание Универсального Языка для Написания Смарт-Контрактов на Блокчейнах, Совместимых с EVM, таких как ETH, BSC и Avalanche
 
-"Uniting the World in Code: A Universal Language Challenge to Solidity!" 💫🌐
+"Uniting the World in Code: A Universal Language Alternative to Solidity!" 💫🌐
 
-The ten principles for programming language Qi:
+The ten founding principles for programming language Qi:
 
 1. Security by Design:
 Prioritize security at every level of the language's design and implementation. Implement security features like automated checks for common vulnerabilities.
@@ -39,7 +39,13 @@ Conduct regular security audits and code reviews by independent experts to ident
 10. Extensive Documentation:
 Develop comprehensive documentation in multiple languages, including guides on secure coding practices, best practices, and accessibility guidelines.
 
+###### Resources
+<br />
+https://docs.soliditylang.org/en/develop/natspec-format.html
+<br />
+https://ethereum.org/en/developers/docs/evm/opcodes/
+<br />
+https://docs.soliditylang.org/en/v0.8.22/yul.html
 
-**with ❤️ from Goa**
+**From Goa with ❤️**
 
-#Resources
