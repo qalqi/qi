@@ -9,33 +9,37 @@
 
 The ten principles for programming language Qi:
 
-Security by Design:
-
+1. Security by Design:
 Prioritize security at every level of the language's design and implementation. Implement security features like automated checks for common vulnerabilities.
-Strong Typing and Formal Verification:
 
+2. Strong Typing and Formal Verification:
 Use strong typing and formal verification techniques to prevent common programming errors and vulnerabilities, such as type mismatches and buffer overflows.
-Multilingual Support:
 
+3. Multilingual Support:
 Support multiple languages, with a focus on making it easy for developers from diverse linguistic backgrounds to write code in their native language.
-Accessibility and Inclusivity:
 
+4. Accessibility and Inclusivity:
 Ensure that the language is accessible to individuals with disabilities, including blind people. Implement voice-based coding interfaces, Braille compatibility, and other accessibility features.
-Error Handling and Debugging:
 
+5. Error Handling and Debugging:
 Provide robust error handling and debugging tools to help developers identify and fix issues quickly, enhancing the stability of the code.
-Immutable Smart Contracts:
 
+6. Immutable Smart Contracts:
 Make smart contracts immutable by default to reduce the risk of unintended changes or vulnerabilities.
-Community Collaboration:
 
+7. Community Collaboration:
 Encourage a collaborative community where developers, linguists, and accessibility experts work together to improve the language continually.
-Transparent Governance:
 
+8. Transparent Governance:
 Establish clear governance models and processes to address language updates, security patches, and community-driven changes.
-Regular Security Audits:
 
+9. Regular Security Audits:
 Conduct regular security audits and code reviews by independent experts to identify and address vulnerabilities.
-Extensive Documentation:
 
+10. Extensive Documentation:
 Develop comprehensive documentation in multiple languages, including guides on secure coding practices, best practices, and accessibility guidelines.
+
+
+**with ❤️ from Goa**
+
+#Resources
