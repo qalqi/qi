@@ -39,13 +39,15 @@ Conduct regular security audits and code reviews by independent experts to ident
 10. Extensive Documentation:
 Develop comprehensive documentation in multiple languages, including guides on secure coding practices, best practices, and accessibility guidelines.
 
-###### Resources
-<br />
+##### Resources
 https://docs.soliditylang.org/en/develop/natspec-format.html
 <br />
 https://ethereum.org/en/developers/docs/evm/opcodes/
 <br />
 https://docs.soliditylang.org/en/v0.8.22/yul.html
+
+<br />
+<br />
 
 **From Goa with ❤️**
 
